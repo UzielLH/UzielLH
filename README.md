@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏫 I am a Software Engineering student at La Salle University in Oaxaca.<br>🧑‍🎓 I’m currently learning Cybersecurity and Project Manager.<br>🔥 My Competitive Programming Profile:
+🏫 I am a Software Engineering student at La Salle University in Oaxaca.<br>🧑‍🎓 I’m currently learning Cybersecurity and Project Management.<br>🔥 My Competitive Programming Profile:
 
 
 ## 🌐 Socials:
