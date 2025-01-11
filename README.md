@@ -22,3 +22,4 @@
 [![](https://visitcount.itsvg.in/api?id=UzielLH&icon=1&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22vruek5kxj4xzuxjtasgizxy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=22vruek5kxj4xzuxjtasgizxy&redirect=true)
